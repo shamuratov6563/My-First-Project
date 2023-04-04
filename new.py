@@ -9,3 +9,20 @@ def isprime(son):
 
 print(isprime(29))
 print(isprime(27))
+
+# o'zingizga clon qilib olmoqchi bo'lsangiz
+# git clone <repository_path>
+
+# git init
+# git add .
+# git commit -m "message" 
+# git remote add origin "repository_path"
+# git push origin master
+
+
+
+# git status - bu o'zgarishlar bor yo'ki yo'qligini tekshirish
+# git add .(new.py)
+# git commit -m "commit xabari"
+# git push origin master(main)
+
